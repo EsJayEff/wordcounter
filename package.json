@@ -1,0 +1,30 @@
+{
+  "name": "esjayeff-word_counter",
+  "version": "1.0.0",
+  "description": "\"# wordcounter\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsJayEff/wordcounter.git"
+  },
+  "keywords": [
+    "word",
+    "counter",
+    "word counter"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EsJayEff/wordcounter/issues"
+  },
+  "homepage": "https://github.com/EsJayEff/wordcounter#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.0"
+  }
+}
